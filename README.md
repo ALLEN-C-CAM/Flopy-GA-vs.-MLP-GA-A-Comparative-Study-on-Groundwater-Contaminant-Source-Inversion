@@ -1,0 +1,2 @@
+# Flopy-GA-vs.-MLP-GA-A-Comparative-Study-on-Groundwater-Contaminant-Source-Inversion
+Code for our paper comparing a data-driven MLP-surrogate model (MLP-GA) with a traditional numerical model (Flopy-GA) for groundwater contaminant source inversion. Achieves 100x speedup while maintaining engineering-acceptable accuracy. Includes MODFLOW 6/MT3DMS models for homogeneous &amp; heterogeneous aquifers.
